@@ -45,7 +45,7 @@ Stereo_Visual_Odometry
 
 ```
 
-# Runnning the Project 
+# Running the Project 
 
  This project is still under development
 
