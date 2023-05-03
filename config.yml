@@ -1,0 +1,8 @@
+stereo-odometry: 
+ 
+ datahandler:
+  IMG_SEQ_PATH : './dataset/data_odometry_gray/dataset/sequences/'
+  GROUND_TRUTH_PATH : ''./dataset/data_odometry_poses/dataset/poses/'
+  CALIBRATION_DATA_PATH : './dataset/data_odometry_calib/dataset/sequences'
+ 
+ 
