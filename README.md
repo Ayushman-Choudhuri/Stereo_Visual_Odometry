@@ -6,6 +6,11 @@
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%3E%3D5.0-orange.svg)
 ![Conda Version](https://img.shields.io/badge/conda-22.9.0-green.svg?style=flat-square&logo=anaconda&logoColor=white)
 ![OpenCV Version](https://img.shields.io/badge/OpenCV-4.6.0-blue?logo=OpenCV)
+![Docker Version](https://img.shields.io/badge/docker-23.0.4-blue)
+
+
+
+
 
 
 This repository contains an implementation of stereo visual odometry using images from the KITTI Odometry dataset. This project uses stereo depth estimation using the open-cv python package. 
